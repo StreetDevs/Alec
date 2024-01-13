@@ -27,7 +27,7 @@ const Nav = () => {
           ))}
         </ul>
         <div className='flex gap-2 text-lg leading-normal text-slate-400 font-medium font-montserrat max-lg:hidden wide:mr-24'>
-          <a href='/'>Delete</a>
+          <a href='/DeleteAccount'>Delete</a>
           <span>/</span>
           <a href='/'>Explore now</a>
         </div>
